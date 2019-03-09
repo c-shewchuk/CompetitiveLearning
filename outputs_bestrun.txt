@@ -1,0 +1,13 @@
+CMPE 452 Assignment 3
+Kohonen and kMeans Competitive Neural Networks
+Curtis Shewchuk
+SN: 10189026
+The Final Weights:
+Kohonen
+[ 0.84054956  0.08396944 -0.4637126 ][0.55392576 0.35333467 0.61730996]
+Kmeans
+[-0.18930532  0.58253549  0.53157325][ 1.22094155 -0.09488387  0.4652043 ]
+
+Errors
+kMeans
+Error One: 1418.0257734469947 Error Two: 1439.9930108619074
